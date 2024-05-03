@@ -1,5 +1,5 @@
 ### Overview ###
-# The values-base.yaml file installs only the necessary components for enabling the New Relic Kubernetes UIs.  These UIs include the Kubernetes Navigator, Cluster Overview dashboard, Kubenetes entity dashboards, and Kubernetes Events page.
+# The values-base.yaml file installs only the necessary components for installing the New Relic's Kubernetes integration and enabling the Kubernetes UIs.  These UIs include the Kubernetes Navigator, Cluster Overview dashboard, Kubenetes entity dashboards, and Kubernetes Events page.
 
 ### Global Settings ###
 
